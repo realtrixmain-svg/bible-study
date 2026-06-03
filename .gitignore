@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Obsidian workspace cache (user-specific layout)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian local plugin data
+.obsidian/plugins/*/data.json
